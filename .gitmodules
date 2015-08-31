@@ -1,0 +1,9 @@
+[submodule "kevernote-redux"]
+	path = kevernote-redux
+	url = git://github.com/joaomilho/kevernote-redux.git
+[submodule "kevernote-elm"]
+	path = kevernote-elm
+	url = git://github.com/joaomilho/kevernote-elm.git
+[submodule "game-of-life-elm"]
+	path = game-of-life-elm
+	url = git://github.com/joaomilho/game-of-life-elm.git
