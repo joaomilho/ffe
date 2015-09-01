@@ -2,12 +2,12 @@
 
 It's common knowledge that front end development sucks. Can we fix it? No. But can it at least be functional? Yes.
 
-This is a presentation will go over the recent history of front end development, and why now so many attention has been given to functional programming.
+On this presentation I will go over the recent history of front end development, and why now so many attention has been given to functional programming.
 
 My main argument will be this:
 
 1. The possibility of declarative DOM trees (a.k.a. virtual DOM) allows the UI to be a pure function of a given state. This pattern is the foundation for a functional programming style.
-2. Given the web is an event-driven, asynchronous environment, this style of programming is highly desirable.
+2. Given the web is an event-driven asynchronous environment, this style of programming is highly desirable.
 
 The plot will be this:
 
@@ -16,7 +16,7 @@ The plot will be this:
 3. I'll show a little bit of Elm's tools to visualize your app;
 4. I'll turn to more mainstream technology, [React](http://facebook.github.io/react/) and demonstrate how [almost] the same things can be accomplished using it along [Redux](https://github.com/gaearon/redux).
 
-The main goal is:
+The main goals are:
 
 1. To convince Javascript developers that learning some [Haskell](https://www.haskell.org) (well, Elm, which is very similar) gives you a pure, infinite and immutable source of insights. 
 2. To show that functional front end is here to stay.
